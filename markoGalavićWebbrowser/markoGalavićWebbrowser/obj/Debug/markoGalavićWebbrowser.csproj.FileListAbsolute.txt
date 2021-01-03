@@ -1,0 +1,9 @@
+C:\Users\Korisnik\source\repos\markoGalavićWebBrowser\markoGalavićWebbrowser\obj\Debug\markoGalavićWebbrowser.csprojAssemblyReference.cache
+C:\Users\Korisnik\source\repos\markoGalavićWebBrowser\markoGalavićWebbrowser\obj\Debug\markoGalavićWebbrowser.Form1.resources
+C:\Users\Korisnik\source\repos\markoGalavićWebBrowser\markoGalavićWebbrowser\obj\Debug\markoGalavićWebbrowser.Properties.Resources.resources
+C:\Users\Korisnik\source\repos\markoGalavićWebBrowser\markoGalavićWebbrowser\obj\Debug\markoGalavićWebbrowser.csproj.GenerateResource.cache
+C:\Users\Korisnik\source\repos\markoGalavićWebBrowser\markoGalavićWebbrowser\bin\Debug\markoGalavićWebbrowser.exe.config
+C:\Users\Korisnik\source\repos\markoGalavićWebBrowser\markoGalavićWebbrowser\bin\Debug\markoGalavićWebbrowser.exe
+C:\Users\Korisnik\source\repos\markoGalavićWebBrowser\markoGalavićWebbrowser\bin\Debug\markoGalavićWebbrowser.pdb
+C:\Users\Korisnik\source\repos\markoGalavićWebBrowser\markoGalavićWebbrowser\obj\Debug\markoGalavićWebbrowser.exe
+C:\Users\Korisnik\source\repos\markoGalavićWebBrowser\markoGalavićWebbrowser\obj\Debug\markoGalavićWebbrowser.pdb
